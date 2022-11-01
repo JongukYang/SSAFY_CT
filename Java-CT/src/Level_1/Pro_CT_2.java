@@ -1,4 +1,5 @@
 package Level_1;
+
 public class Pro_CT_2 {
 
     public static double solution(int[] arr) {

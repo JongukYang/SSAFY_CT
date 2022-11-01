@@ -1,7 +1,5 @@
 package Level_1;
 
-import java.net.Socket;
-
 public class Pro_CT_7 {
     public static int[] solution(long n) {
 

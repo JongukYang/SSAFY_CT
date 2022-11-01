@@ -10,7 +10,7 @@ public class Pro_CT_11 {
             System.out.println(answer[i]);
             // j = j+(long)x;            
         }
-         System.out.println(answer);
+        // System.out.println(answer);
         return answer;
     }
     public static void main(String[] args) {
