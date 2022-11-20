@@ -66,6 +66,7 @@ public class Solution {
             }
             /////////////////////////////////////////////////////////////////////////////////////////////
             System.out.println("#" + test_case + " " + sum);
+            System.out.println("사피코테완료");
         }
     }
 }
